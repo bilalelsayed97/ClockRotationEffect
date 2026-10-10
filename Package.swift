@@ -24,7 +24,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "ClockRotationEffect",
-            url: "https://github.com/Eilgnaw/ClockRotationEffect/releases/download/ClockRotationEffect.xcframework.zip/ClockRotationEffect.xcframework.zip",
+            url: "https://github.com/bilalelsayed97/ClockRotationEffect/releases/download/1.0.0/ClockRotationEffect.xcframework.zip",
             checksum: "8429ed6b77e7d408d0904e2f017e31e06d4864dceec95f44f8e83f08301af6cd"
         ),
     ]
